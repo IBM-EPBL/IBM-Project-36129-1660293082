@@ -1,5 +1,5 @@
 # IBM-Project-36129-1660293082
-A Novel Method for Handwritten Digit Recognition System
+<h1>A Novel Method for Handwritten Digit Recognition System</h1>
 
 #Members:
     <h3 align="left"> 1)AnnieBaiju</h3>
